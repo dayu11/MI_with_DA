@@ -1,4 +1,4 @@
-# Code for Neurips2020 submission "Membership Inference with Privately Augmented Data Endorses the Benign while Suppresses the Adversary"
+# Code for AAAI2021 paper "How Does Data Augmentation Affect Privacy"
 
 ## Dependency
 
@@ -40,12 +40,5 @@ The `--random_t` flag allows one to evalute our algorithms with augmented data w
 
 ```
 python mi_attack.py --sess resnet110_N10 --aug_instances 10 --random_t
-```
-
-
-The `--verify_unlearning` flag allows one to print the confidence of unlearning verifycation with given n_{i}. 
-
-```
-python mi_attack.py --sess resnet110_N10 --aug_instances 10 --verify_unlearning
 ```
 
