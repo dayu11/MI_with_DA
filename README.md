@@ -44,9 +44,11 @@ python mi_attack.py --sess resnet110_N10 --aug_instances 10 --random_t
 
 ## Citation
 
+```
 @inproceedings{yu2021how,
   title={How Does Data Augmentation Affect Privacy in Machine Learning?},
   author={Yu, Da and Zhang, Huishuai and Chen, Wei and Yin, Jian and Liu, Tie-Yan},
  year      = {2021},
  booktitle = {Proc. of the AAAI Conference on Artificial Intelligence}
 }
+```
