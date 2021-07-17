@@ -1,4 +1,4 @@
-# Code for AAAI2021 paper "How Does Data Augmentation Affect Privacy"
+# Code for AAAI2021 paper "How Does Data Augmentation Affect Privacy in Machine Learning?"
 
 ## Dependency
 
